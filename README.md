@@ -4,7 +4,6 @@ Welcome to the **Log Classification System**! This project is a robust, producti
 
 ## 📹 [Video Demo]
 Watch the demo here: [SmartLog Classifier AI - Demo]((https://drive.google.com/file/d/1bb_JI3DcNXefgUKthANVY5fGdQGy3zDH/view?usp=sharing))  
-*(Replace with actual video URL)*
 
 ---
 
